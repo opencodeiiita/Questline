@@ -1,0 +1,5 @@
+Name: Ayush Saha
+Skills: Java, C, Python, SQL, Git
+Roles: Dev, IT Student
+Interest: Music, Reading, Swimming, Learning random stuff
+Notes: Created a 2d game using the pygame library.
