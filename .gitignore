@@ -1,7 +1,20 @@
+# Unity generated folders
 Library/
 Temp/
 Logs/
 UserSettings/
+Obj/
+Build/
+Builds/
+
+# IDE files
 .vscode/
+.vs/
 *.sln
 *.csproj
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
