@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d8a40d4c6f082e4abc02958d25ee320
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278960
+  packageName: Giant Monster Model - Golem
+  packageVersion: 1.0
+  assetPath: Assets/Kevin Iglesias/Characters/Humanoid Giant/Demo Scene/Materials/URP/URP
+    - FloorMaterial.mat
+  uploadId: 684561

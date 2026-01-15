@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d550279ca7465e343bfa9c9c4bb4be6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278960
+  packageName: Giant Monster Model - Golem
+  packageVersion: 1.0
+  assetPath: Assets/Kevin Iglesias/Characters/Humanoid Giant/Materials/Giant01_Flat/URP/URP
+    - Giant01_Texture01_Flat.mat
+  uploadId: 684561

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85f5397140970ff4e891a15723356a10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278960
+  packageName: Giant Monster Model - Golem
+  packageVersion: 1.0
+  assetPath: Assets/Kevin Iglesias/Characters/Humanoid Giant/Materials/Giant01/Giant01_Texture01/URP/URP
+    - Giant01_Texture01 Recolor03.mat
+  uploadId: 684561
