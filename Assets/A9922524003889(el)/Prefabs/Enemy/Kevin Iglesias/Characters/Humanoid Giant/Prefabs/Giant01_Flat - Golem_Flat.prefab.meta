@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9af52bf624fb004abc7f4d28bdf39e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278960
+  packageName: Giant Monster Model - Golem
+  packageVersion: 1.0
+  assetPath: Assets/Kevin Iglesias/Characters/Humanoid Giant/Prefabs/Giant01_Flat
+    - Golem_Flat.prefab
+  uploadId: 684561
